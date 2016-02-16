@@ -1,2 +1,5 @@
 # hello-world
-My repo
+
+Some small changes I made.
+
+That's all.
